@@ -1,13 +1,12 @@
-------------------------------------------------
+<h1 align="center">Hi 👋, I'm Cahit Acar</h1>
 
-                Büyük Banner
+<h3 align="center">
+Flutter Developer • Web Developer • Digital Marketing Specialist
+</h3>
 
-          CAHİT ACAR
-
-Flutter Developer • Web Developer
-Digital Marketing Specialist
-
-------------------------------------------------
+<p align="center">
+Building modern mobile applications and digital experiences.
+</p>
 
 👨‍💻 About Me
 
@@ -21,24 +20,22 @@ Digital Marketing Specialist
 
 ------------------------------------------------
 
-🛠 Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,python,php,html,css,js,git,github,vscode,androidstudio" />
+</p>
 
-Flutter
-Dart
-Firebase
-Java
-Python
-PHP
-HTML5
-CSS3
-JavaScript
-Git
 
 ------------------------------------------------
 
-📊 GitHub Statistics
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=26cahit&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=26cahit&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-(grafikler)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=26cahit&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ------------------------------------------------
 
