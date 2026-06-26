@@ -25,15 +25,10 @@ Building modern mobile applications and digital experiences.
 * 📈 Digital Marketing & SEO
 * 🚀 Passionate about building modern applications
 
-
-------------------------------------------------
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,python,php,html,css,js,git,github,vscode,androidstudio" />
 </p>
 
-
-------------------------------------------------
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=26cahit&show_icons=true&theme=tokyonight&hide_border=true" />
