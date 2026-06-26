@@ -61,7 +61,7 @@ Building modern mobile applications and digital experiences.
 
 ## 📬 Contact
 
-📧 [cahitacar6517@gmail.com](mailto:cahitacar6517@gmail.com)
+📧 📧 [cahitacar.dev@mail.com](mailto:cahitacar.dev@mail.com)
 
 📱 +90 545 699 76 69
 
